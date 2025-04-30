@@ -46,10 +46,13 @@ Make sure you upload `Life Expectancy Data.csv` into your Colab session when pro
 ---
 
 ## 🛠️ Libraries Used
+pandas — for data manipulation and cleaning
 
-- `pandas`, 'numpy ' for data manipulation
-- `matplotlib.pyplot` , 'seaborn' for visualizations
+numpy — for numerical operations
 
+matplotlib — for basic plotting
+
+seaborn — for advanced and aesthetic visualizations
 ---
 
 ## 🧠 Skills Practiced
