@@ -53,6 +53,7 @@ numpy — for numerical operations
 matplotlib — for basic plotting
 
 seaborn — for advanced and aesthetic visualizations
+
 ---
 
 ## 🧠 Skills Practiced
