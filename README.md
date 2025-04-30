@@ -47,8 +47,8 @@ Make sure you upload `Life Expectancy Data.csv` into your Colab session when pro
 
 ## 🛠️ Libraries Used
 
-- `pandas` for data manipulation
-- `matplotlib.pyplot` for visualizations
+- `pandas`, 'numpy ' for data manipulation
+- `matplotlib.pyplot` , 'seaborn' for visualizations
 
 ---
 
